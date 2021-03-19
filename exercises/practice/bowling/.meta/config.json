@@ -1,6 +1,39 @@
 {
   "blurb": "Score a bowling game",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "devonestes"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "angelikatyborska"
+    },
+    {
+      "github_username": "britto"
+    },
+    {
+      "github_username": "Cohen-Carlisle"
+    },
+    {
+      "github_username": "lpil"
+    },
+    {
+      "github_username": "neenjaw"
+    },
+    {
+      "github_username": "NickNeck"
+    },
+    {
+      "github_username": "parkerl"
+    },
+    {
+      "github_username": "sotojuan"
+    },
+    {
+      "github_username": "waiting-for-dev"
+    }
+  ],
   "files": {
     "solution": [
       "lib/bowling.ex"

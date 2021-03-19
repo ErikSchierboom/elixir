@@ -1,6 +1,33 @@
 {
   "blurb": "Given a number from 0 to 999,999,999,999, spell out that number in English.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "zporter"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "amencarini"
+    },
+    {
+      "github_username": "angelikatyborska"
+    },
+    {
+      "github_username": "Cohen-Carlisle"
+    },
+    {
+      "github_username": "devonestes"
+    },
+    {
+      "github_username": "neenjaw"
+    },
+    {
+      "github_username": "parkerl"
+    },
+    {
+      "github_username": "sotojuan"
+    }
+  ],
   "files": {
     "solution": [
       "lib/say.ex"

@@ -1,6 +1,45 @@
 {
   "blurb": "Implement the `accumulate` operation, which, given a collection and an operation to perform on each element of the collection, returns a new collection containing the result of applying that operation to each element of the input collection.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "petehuang"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "angelikatyborska"
+    },
+    {
+      "github_username": "bernardoamc"
+    },
+    {
+      "github_username": "Cohen-Carlisle"
+    },
+    {
+      "github_username": "devonestes"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "lpil"
+    },
+    {
+      "github_username": "neenjaw"
+    },
+    {
+      "github_username": "parkerl"
+    },
+    {
+      "github_username": "sotojuan"
+    },
+    {
+      "github_username": "tejasbubane"
+    },
+    {
+      "github_username": "waiting-for-dev"
+    }
+  ],
   "files": {
     "solution": [
       "lib/accumulate.ex"

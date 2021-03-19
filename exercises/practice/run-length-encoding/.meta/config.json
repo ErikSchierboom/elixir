@@ -1,6 +1,48 @@
 {
   "blurb": "Implement run-length encoding and decoding.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "Teapane"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "angelikatyborska"
+    },
+    {
+      "github_username": "CoderDennis"
+    },
+    {
+      "github_username": "Cohen-Carlisle"
+    },
+    {
+      "github_username": "dalexj"
+    },
+    {
+      "github_username": "daveyarwood"
+    },
+    {
+      "github_username": "devonestes"
+    },
+    {
+      "github_username": "lex57ukr"
+    },
+    {
+      "github_username": "lpil"
+    },
+    {
+      "github_username": "neenjaw"
+    },
+    {
+      "github_username": "parkerl"
+    },
+    {
+      "github_username": "sotojuan"
+    },
+    {
+      "github_username": "waiting-for-dev"
+    }
+  ],
   "files": {
     "solution": [
       "lib/run_length_encoder.ex"

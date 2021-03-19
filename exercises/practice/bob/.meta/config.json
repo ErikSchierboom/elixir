@@ -1,6 +1,87 @@
 {
   "blurb": "Bob is a lackadaisical teenager. In conversation, his responses are very limited.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "rubysolo"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "andrewsardone"
+    },
+    {
+      "github_username": "angelikatyborska"
+    },
+    {
+      "github_username": "austinlyons"
+    },
+    {
+      "github_username": "cbliard"
+    },
+    {
+      "github_username": "Cohen-Carlisle"
+    },
+    {
+      "github_username": "dalexj"
+    },
+    {
+      "github_username": "devonestes"
+    },
+    {
+      "github_username": "digitalronin"
+    },
+    {
+      "github_username": "doncruse"
+    },
+    {
+      "github_username": "etrepum"
+    },
+    {
+      "github_username": "ghajba"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "lpil"
+    },
+    {
+      "github_username": "neenjaw"
+    },
+    {
+      "github_username": "parkerl"
+    },
+    {
+      "github_username": "pminten"
+    },
+    {
+      "github_username": "rsslldnphy"
+    },
+    {
+      "github_username": "seeflanigan"
+    },
+    {
+      "github_username": "sotojuan"
+    },
+    {
+      "github_username": "Teapane"
+    },
+    {
+      "github_username": "tjcelaya"
+    },
+    {
+      "github_username": "Tonkpils"
+    },
+    {
+      "github_username": "victorpre"
+    },
+    {
+      "github_username": "vladimir-tikhonov"
+    },
+    {
+      "github_username": "waiting-for-dev"
+    }
+  ],
   "files": {
     "solution": [
       "lib/bob.ex"

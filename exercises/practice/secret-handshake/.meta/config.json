@@ -1,6 +1,30 @@
 {
   "blurb": "Given a decimal number, convert it to the appropriate sequence of events for a secret handshake.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "DoggettCK"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "angelikatyborska"
+    },
+    {
+      "github_username": "Cohen-Carlisle"
+    },
+    {
+      "github_username": "devonestes"
+    },
+    {
+      "github_username": "mlopes"
+    },
+    {
+      "github_username": "neenjaw"
+    },
+    {
+      "github_username": "sotojuan"
+    }
+  ],
   "files": {
     "solution": [
       "lib/secret_handshake.ex"

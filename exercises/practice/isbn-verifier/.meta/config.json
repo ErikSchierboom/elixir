@@ -1,6 +1,30 @@
 {
   "blurb": "Check if a given string is a valid ISBN-10 number.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "stfnsr"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "angelikatyborska"
+    },
+    {
+      "github_username": "Cohen-Carlisle"
+    },
+    {
+      "github_username": "devonestes"
+    },
+    {
+      "github_username": "herminiotorres"
+    },
+    {
+      "github_username": "neenjaw"
+    },
+    {
+      "github_username": "sotojuan"
+    }
+  ],
   "files": {
     "solution": [
       "lib/isbn_verifier.ex"

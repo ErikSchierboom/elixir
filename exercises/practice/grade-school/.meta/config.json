@@ -1,6 +1,72 @@
 {
   "blurb": "Given students' names along with the grade that they are in, create a roster for the school",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "rubysolo"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "andrewsardone"
+    },
+    {
+      "github_username": "angelikatyborska"
+    },
+    {
+      "github_username": "bartj3"
+    },
+    {
+      "github_username": "Cohen-Carlisle"
+    },
+    {
+      "github_username": "dalexj"
+    },
+    {
+      "github_username": "devonestes"
+    },
+    {
+      "github_username": "drueck"
+    },
+    {
+      "github_username": "elasticdog"
+    },
+    {
+      "github_username": "jinyeow"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "lpil"
+    },
+    {
+      "github_username": "neenjaw"
+    },
+    {
+      "github_username": "parkerl"
+    },
+    {
+      "github_username": "petehuang"
+    },
+    {
+      "github_username": "pminten"
+    },
+    {
+      "github_username": "sotojuan"
+    },
+    {
+      "github_username": "Teapane"
+    },
+    {
+      "github_username": "veelenga"
+    },
+    {
+      "github_username": "victorlcampos"
+    },
+    {
+      "github_username": "waiting-for-dev"
+    }
+  ],
   "files": {
     "solution": [
       "lib/school.ex"

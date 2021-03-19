@@ -1,6 +1,30 @@
 {
   "blurb": "Translate RNA sequences into proteins.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "DoggettCK"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "angelikatyborska"
+    },
+    {
+      "github_username": "Cohen-Carlisle"
+    },
+    {
+      "github_username": "devonestes"
+    },
+    {
+      "github_username": "neenjaw"
+    },
+    {
+      "github_username": "nwshane"
+    },
+    {
+      "github_username": "sotojuan"
+    }
+  ],
   "files": {
     "solution": [
       "lib/protein_translation.ex"

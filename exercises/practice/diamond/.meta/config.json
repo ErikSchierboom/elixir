@@ -1,6 +1,39 @@
 {
   "blurb": "Given a letter, print a diamond starting with 'A' with the supplied letter at the widest point.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "jimmbraddock"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "angelikatyborska"
+    },
+    {
+      "github_username": "Cohen-Carlisle"
+    },
+    {
+      "github_username": "davbre"
+    },
+    {
+      "github_username": "devonestes"
+    },
+    {
+      "github_username": "lpil"
+    },
+    {
+      "github_username": "neenjaw"
+    },
+    {
+      "github_username": "parkerl"
+    },
+    {
+      "github_username": "sotojuan"
+    },
+    {
+      "github_username": "waiting-for-dev"
+    }
+  ],
   "files": {
     "solution": [
       "lib/diamond.ex"

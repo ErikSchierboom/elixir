@@ -1,6 +1,15 @@
 {
   "blurb": "Convert a resistor band's color to its numeric representation",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "Bscruz19"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "angelikatyborska"
+    }
+  ],
   "files": {
     "solution": [
       "lib/resistor_color.ex"

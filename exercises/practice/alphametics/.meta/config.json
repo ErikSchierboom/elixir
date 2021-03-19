@@ -1,6 +1,24 @@
 {
   "blurb": "Write a function to solve alphametics puzzles.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "britto"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "angelikatyborska"
+    },
+    {
+      "github_username": "Cohen-Carlisle"
+    },
+    {
+      "github_username": "devonestes"
+    },
+    {
+      "github_username": "neenjaw"
+    }
+  ],
   "files": {
     "solution": [
       "lib/alphametics.ex"

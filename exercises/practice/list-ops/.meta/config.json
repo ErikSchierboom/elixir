@@ -1,6 +1,53 @@
 {
   "blurb": "Implement basic list operations",
   "authors": [],
+  "contributors": [
+    {
+      "github_username": "andrewsardone"
+    },
+    {
+      "github_username": "angelikatyborska"
+    },
+    {
+      "github_username": "Cohen-Carlisle"
+    },
+    {
+      "github_username": "dalexj"
+    },
+    {
+      "github_username": "devonestes"
+    },
+    {
+      "github_username": "henrik"
+    },
+    {
+      "github_username": "jinyeow"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "lpil"
+    },
+    {
+      "github_username": "neenjaw"
+    },
+    {
+      "github_username": "parkerl"
+    },
+    {
+      "github_username": "rubysolo"
+    },
+    {
+      "github_username": "sotojuan"
+    },
+    {
+      "github_username": "Teapane"
+    },
+    {
+      "github_username": "waiting-for-dev"
+    }
+  ],
   "files": {
     "solution": [
       "lib/list_ops.ex"

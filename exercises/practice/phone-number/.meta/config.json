@@ -1,6 +1,81 @@
 {
   "blurb": "Clean up user-entered phone numbers so that they can be sent SMS messages.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "rubysolo"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "andrewsardone"
+    },
+    {
+      "github_username": "angelikatyborska"
+    },
+    {
+      "github_username": "brianriley"
+    },
+    {
+      "github_username": "Cohen-Carlisle"
+    },
+    {
+      "github_username": "dalexj"
+    },
+    {
+      "github_username": "devonestes"
+    },
+    {
+      "github_username": "drueck"
+    },
+    {
+      "github_username": "fhdhsni"
+    },
+    {
+      "github_username": "henrik"
+    },
+    {
+      "github_username": "jinyeow"
+    },
+    {
+      "github_username": "johnsyweb"
+    },
+    {
+      "github_username": "korbin"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "lancehalvorsen"
+    },
+    {
+      "github_username": "lpil"
+    },
+    {
+      "github_username": "martinsvalin"
+    },
+    {
+      "github_username": "neenjaw"
+    },
+    {
+      "github_username": "parkerl"
+    },
+    {
+      "github_username": "sotojuan"
+    },
+    {
+      "github_username": "Teapane"
+    },
+    {
+      "github_username": "v-kolesnikov"
+    },
+    {
+      "github_username": "victorlcampos"
+    },
+    {
+      "github_username": "waiting-for-dev"
+    }
+  ],
   "files": {
     "solution": [
       "lib/phone_number.ex"

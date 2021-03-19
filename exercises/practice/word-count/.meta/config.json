@@ -1,6 +1,69 @@
 {
   "blurb": "Given a phrase, count the occurrences of each word in that phrase.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "rubysolo"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "andrewsardone"
+    },
+    {
+      "github_username": "angelikatyborska"
+    },
+    {
+      "github_username": "chriseyre2000"
+    },
+    {
+      "github_username": "Cohen-Carlisle"
+    },
+    {
+      "github_username": "dalexj"
+    },
+    {
+      "github_username": "dantswain"
+    },
+    {
+      "github_username": "devonestes"
+    },
+    {
+      "github_username": "henrik"
+    },
+    {
+      "github_username": "kronn"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "lpil"
+    },
+    {
+      "github_username": "lucasprag"
+    },
+    {
+      "github_username": "MarcosX"
+    },
+    {
+      "github_username": "neenjaw"
+    },
+    {
+      "github_username": "parkerl"
+    },
+    {
+      "github_username": "patrickgombert"
+    },
+    {
+      "github_username": "sotojuan"
+    },
+    {
+      "github_username": "Teapane"
+    },
+    {
+      "github_username": "waiting-for-dev"
+    }
+  ],
   "files": {
     "solution": [
       "lib/word_count.ex"
